@@ -1,7 +1,7 @@
 #JavaScript Functions
 
 
-Using the google shoping data from the previous exercise ( [products.json](https://raw.githubusercontent.com/wdi-sea-01/google_products/master/products.json) ) create  some useful functions to answer the following questions.
+Using the google shoping data from the previous exercise (also included in this repository) create some useful functions to answer the following questions.
 
 Tip: for some of these you can re-use some of the code you created in the previous exercise.
 
